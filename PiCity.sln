@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCity", "PiCity\PiCity.csproj", "{020A2373-B668-434A-BD76-36D5E57F1386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020A2373-B668-434A-BD76-36D5E57F1386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020A2373-B668-434A-BD76-36D5E57F1386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020A2373-B668-434A-BD76-36D5E57F1386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020A2373-B668-434A-BD76-36D5E57F1386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095788D1-E45C-452A-B926-EC006C1629F8}
+	EndGlobalSection
+EndGlobal
